@@ -1,6 +1,6 @@
 const express = require("express")
 const cors = require("cors")
-
+const routes =require("./src/routes")
 const rotaInicial = (req, res) => {
     res.json("Back-end respondendo")
 }

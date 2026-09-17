@@ -18,10 +18,6 @@ const read = (req, res)=>{
 }
 
 module.exports = {
-    res.json(bens)
-}
-
-module.exports = {
     create,
     read
 }
